@@ -1,0 +1,25 @@
+* {
+    padding: 1rem;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    color: #f9ffa9;
+}
+
+body {
+    background-color: #4f433b;
+}
+
+footer {
+    display: flex;
+}
+
+.home {
+    align-items: center;
+}
