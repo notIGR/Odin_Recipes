@@ -3,6 +3,15 @@
     margin: auto;
 }
 
+.foodImg {
+    display: flex;
+}
+
+img {
+    align-items: center;
+}
+
+
 h1 {
     text-align: center;
 }
@@ -16,7 +25,7 @@ ul {
     display: flex;
 }
 
-li {
+.main {
     list-style-type: none;
     justify-content: space-evenly;
 }
